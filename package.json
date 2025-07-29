@@ -2,8 +2,8 @@
   "name": "comp_lifecycle_project",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://fxyz-ai.github.io/comp_lifecycle_project",
   "type": "module",
+  "homepage": "https://fxyz-ai.github.io/bakers-paradis",
   "scripts": {
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
