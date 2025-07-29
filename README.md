@@ -1,11 +1,22 @@
-# 🍩 Baker's Paradis
-
-**Baker's Paradis** is a creative collection of 89 unique pastries, including cakes, donuts, cupcakes, and pies. Each pastry is thoughtfully crafted with different combinations of flavorful batters and delicious toppings, making every item stand out with its own identity.
-
-This dataset was designed to represent a playful and diverse bakery menu — perfect for showcasing bakery items, building mock UI layouts, or just exploring the fun behind custom dessert creations.
-
-All items are well-structured in JSON format, each with a name, type, pricing, batter details, and topping combinations.
-
-Whether you're working on a frontend demo or just experimenting with data, this project serves up sweet inspiration. 🍰
+Of course bro, here’s your updated `README.md` without the “What I Learned” section and the custom dataset line:
 
 ---
+
+```markdown
+# Baker's Paradis 🍩
+
+**Baker's Paradis** is a simple pastry ordering React application that simulates an online food ordering experience. The app allows users to browse, filter, search, and add items to a cart.
+
+### 🧁 Features
+
+- Filter pastries by type  
+- Search pastries by name  
+- Add to cart functionality with quantity handling  
+- Responsive UI styled with Tailwind CSS
+
+---
+
+This project helped me build confidence in React by implementing real-world e-commerce-like features. 🚀
+```
+
+Let me know if you want to add the logo or link to GitHub Pages or Vercel or anything else.
